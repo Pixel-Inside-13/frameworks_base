@@ -58,7 +58,19 @@ public class PixelPropsUtils {
             "com.android.chrome",
             "com.android.vending",
             "com.breel.wallpapers20",
-            "com.nothing.smartcenter"
+            "com.nothing.smartcenter",
+            "com.amazon.avod.thirdpartyclient",
+            "com.disney.disneyplus",
+            "in.startv.hotstar",
+            "com.google.android.apps.wallpaper",
+            "com.android.chrome",
+            "com.google.android.apps.googleassistant",
+            "com.google.android.deskclock",
+            "com.google.android.apps.podcasts",
+            "com.google.android.apps.tachyon",
+            "com.google.android.apps.nbu.files",
+            "com.google.android.android.contacts",
+            "com.google.android.android.apps.messaging"
     };
 
     private static final Map<String, Object> propsToChangeROG1;
